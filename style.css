@@ -1,0 +1,46 @@
+
+.header{
+border:4px solid rgb(238, 194, 50);
+display:flex;
+flex-direction: row;
+align-items:center;
+/*   */
+} 
+.container{
+    height:70vh;
+    width:100vw;
+    /* border:2px solid black; */
+    display:flex;
+    flex-direction:row;
+
+}
+.a{
+     /* border:4px solid red;  */
+     width:100%;
+}
+p{
+    align-items:center;
+}
+
+
+.text{
+    height:100%;
+    width:85%;
+    /* border:1px solid rgb(21, 161, 241); */
+    align-items: center;
+    background-color: rgb(30,57,50);
+    color:white;
+}
+.gift{
+    font-size:30px;
+    font-weight:bold;
+    align-items: center;
+    padding-top: 47px;
+    padding-left:30%;
+}
+.join{
+    text-align: center;
+    align-items: center;
+    font-size:21px;
+    font-weight: 105;
+}
